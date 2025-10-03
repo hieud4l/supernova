@@ -1,0 +1,83 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "space": {
+    "spacing": {
+      "container-padding-mobile": {
+        "value": "{dimension.spacing.4-16px}",
+        "type": "space"
+      },
+      "container-padding-desktop": {
+        "value": "{dimension.spacing.8-32px}",
+        "type": "space"
+      },
+      "spacing-none": {
+        "value": "{dimension.spacing.0-0px}",
+        "type": "space"
+      },
+      "spacing-xxs": {
+        "value": "{dimension.spacing.0-5-2px}",
+        "type": "space"
+      },
+      "spacing-xs": {
+        "value": "{dimension.spacing.1-4px}",
+        "type": "space"
+      },
+      "spacing-sm": {
+        "value": "{dimension.spacing.1-5-6px}",
+        "type": "space"
+      },
+      "spacing-md": {
+        "value": "{dimension.spacing.2-8px}",
+        "type": "space"
+      },
+      "spacing-lg": {
+        "value": "{dimension.spacing.3-12px}",
+        "type": "space"
+      },
+      "spacing-xl": {
+        "value": "{dimension.spacing.4-16px}",
+        "type": "space"
+      },
+      "spacing-2xl": {
+        "value": "{dimension.spacing.5-20px}",
+        "type": "space"
+      },
+      "spacing-3xl": {
+        "value": "{dimension.spacing.6-24px}",
+        "type": "space"
+      },
+      "spacing-4xl": {
+        "value": "{dimension.spacing.8-32px}",
+        "type": "space"
+      },
+      "spacing-5xl": {
+        "value": "{dimension.spacing.10-40px}",
+        "type": "space"
+      },
+      "spacing-6xl": {
+        "value": "{dimension.spacing.12-48px}",
+        "type": "space"
+      },
+      "spacing-7xl": {
+        "value": "{dimension.spacing.16-64px}",
+        "type": "space"
+      },
+      "spacing-8xl": {
+        "value": "{dimension.spacing.20-80px}",
+        "type": "space"
+      },
+      "spacing-9xl": {
+        "value": "{dimension.spacing.24-96px}",
+        "type": "space"
+      },
+      "spacing-10xl": {
+        "value": "{dimension.spacing.32-128px}",
+        "type": "space"
+      },
+      "spacing-11xl": {
+        "value": "{dimension.spacing.40-160px}",
+        "type": "space"
+      }
+    }
+  }
+}

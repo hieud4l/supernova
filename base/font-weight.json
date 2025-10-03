@@ -1,0 +1,39 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "font-weight": {
+    "font-weight": {
+      "regular": {
+        "value": "400",
+        "type": "fontWeight"
+      },
+      "regular-italic": {
+        "value": "400",
+        "type": "fontWeight"
+      },
+      "medium": {
+        "value": "500",
+        "type": "fontWeight"
+      },
+      "medium-italic": {
+        "value": "400",
+        "type": "fontWeight"
+      },
+      "semibold": {
+        "value": "600",
+        "type": "fontWeight"
+      },
+      "semibold-italic": {
+        "value": "400",
+        "type": "fontWeight"
+      },
+      "bold": {
+        "value": "700",
+        "type": "fontWeight"
+      },
+      "bold-italic": {
+        "value": "400",
+        "type": "fontWeight"
+      }
+    }
+  }
+}
